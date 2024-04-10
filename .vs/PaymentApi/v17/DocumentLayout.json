@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sayerdis\\Desktop\\Zona trabajo - Sergio\\SJAR\\asp net core\\PaymentApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B15BB511-D6F7-4B69-8AD0-1E0A1D5E580F}|PaymentApi\\PaymentApi.csproj|c:\\users\\sayerdis\\desktop\\zona trabajo - sergio\\sjar\\asp net core\\paymentapi\\paymentapi\\controllers\\paymentdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B15BB511-D6F7-4B69-8AD0-1E0A1D5E580F}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\controllers\\paymentdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B15BB511-D6F7-4B69-8AD0-1E0A1D5E580F}|PaymentApi\\PaymentApi.csproj|c:\\users\\sayerdis\\desktop\\zona trabajo - sergio\\sjar\\asp net core\\paymentapi\\paymentapi\\models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B15BB511-D6F7-4B69-8AD0-1E0A1D5E580F}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B15BB511-D6F7-4B69-8AD0-1E0A1D5E580F}|PaymentApi\\PaymentApi.csproj|c:\\users\\sayerdis\\desktop\\zona trabajo - sergio\\sjar\\asp net core\\paymentapi\\paymentapi\\models\\paymentdetailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B15BB511-D6F7-4B69-8AD0-1E0A1D5E580F}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\models\\paymentdetailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B15BB511-D6F7-4B69-8AD0-1E0A1D5E580F}|PaymentApi\\PaymentApi.csproj|c:\\users\\sayerdis\\desktop\\zona trabajo - sergio\\sjar\\asp net core\\paymentapi\\paymentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B15BB511-D6F7-4B69-8AD0-1E0A1D5E580F}|PaymentApi\\PaymentApi.csproj|solutionrelative:paymentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentDetailController.cs",
+              "DocumentMoniker": "C:\\Users\\sayerdis\\Desktop\\Zona trabajo - Sergio\\SJAR\\asp net core\\PaymentApi\\PaymentApi\\Controllers\\PaymentDetailController.cs",
+              "RelativeDocumentMoniker": "PaymentApi\\Controllers\\PaymentDetailController.cs",
+              "ToolTip": "C:\\Users\\sayerdis\\Desktop\\Zona trabajo - Sergio\\SJAR\\asp net core\\PaymentApi\\PaymentApi\\Controllers\\PaymentDetailController.cs",
+              "RelativeToolTip": "PaymentApi\\Controllers\\PaymentDetailController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAuwFIAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T15:11:19.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sayerdis\\Desktop\\Zona trabajo - Sergio\\SJAR\\asp net core\\PaymentApi\\PaymentApi\\Program.cs",
+              "RelativeDocumentMoniker": "PaymentApi\\Program.cs",
+              "ToolTip": "C:\\Users\\sayerdis\\Desktop\\Zona trabajo - Sergio\\SJAR\\asp net core\\PaymentApi\\PaymentApi\\Program.cs",
+              "RelativeToolTip": "PaymentApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T14:00:36.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentDetailContext.cs",
+              "DocumentMoniker": "C:\\Users\\sayerdis\\Desktop\\Zona trabajo - Sergio\\SJAR\\asp net core\\PaymentApi\\PaymentApi\\Models\\PaymentDetailContext.cs",
+              "RelativeDocumentMoniker": "PaymentApi\\Models\\PaymentDetailContext.cs",
+              "ToolTip": "C:\\Users\\sayerdis\\Desktop\\Zona trabajo - Sergio\\SJAR\\asp net core\\PaymentApi\\PaymentApi\\Models\\PaymentDetailContext.cs",
+              "RelativeToolTip": "PaymentApi\\Models\\PaymentDetailContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:56:20.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentDetail.cs",
+              "DocumentMoniker": "C:\\Users\\sayerdis\\Desktop\\Zona trabajo - Sergio\\SJAR\\asp net core\\PaymentApi\\PaymentApi\\Models\\PaymentDetail.cs",
+              "RelativeDocumentMoniker": "PaymentApi\\Models\\PaymentDetail.cs",
+              "ToolTip": "C:\\Users\\sayerdis\\Desktop\\Zona trabajo - Sergio\\SJAR\\asp net core\\PaymentApi\\PaymentApi\\Models\\PaymentDetail.cs",
+              "RelativeToolTip": "PaymentApi\\Models\\PaymentDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:51:29.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
