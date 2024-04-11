@@ -8255,24 +8255,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sayerdis\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\sayer\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sayerdis\\Desktop\\Zona trabajo - Sergio\\SJAR\\asp net core\\PaymentApi\\PaymentApi\\PaymentApi.csproj",
+      "projectUniqueName": "C:\\dev\\Payment\\paymentApi\\PaymentApi\\PaymentApi.csproj",
       "projectName": "PaymentApi",
-      "projectPath": "C:\\Users\\sayerdis\\Desktop\\Zona trabajo - Sergio\\SJAR\\asp net core\\PaymentApi\\PaymentApi\\PaymentApi.csproj",
-      "packagesPath": "C:\\Users\\sayerdis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sayerdis\\Desktop\\Zona trabajo - Sergio\\SJAR\\asp net core\\PaymentApi\\PaymentApi\\obj\\",
+      "projectPath": "C:\\dev\\Payment\\paymentApi\\PaymentApi\\PaymentApi.csproj",
+      "packagesPath": "C:\\Users\\sayer\\.nuget\\packages\\",
+      "outputPath": "C:\\dev\\Payment\\paymentApi\\PaymentApi\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\sayerdis\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\sayer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
